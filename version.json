@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.5",
   "SketchUp_Support": "Minimum 2021",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Rebars-Builder-Update/releases/download/v1.0.3/anzia_rebars_builder_v1.0.3.rbz",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Rebars-Builder-Update/releases/download/v1.0.5/anzia_rebars_builder_v1.0.5.rbz",
   "changelog": [
     "Update ke-dua",
-    "Penyesuaian nomor versi plugin menjadi v1.0.3"
+    "Penyesuaian nomor versi plugin menjadi v1.0.5"
   ]
 }
