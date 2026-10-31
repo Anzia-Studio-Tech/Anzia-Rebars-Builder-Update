@@ -3,7 +3,7 @@
   "SketchUp_Support": "Minimum 2021",
   "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Rebars-Builder-Update/releases/download/v1.0.8/anzia_rebars_builder_v1_0_8.rbz",
   "changelog": [
-    "Update ke-dua",
-    "Penyesuaian nomor versi plugin menjadi v1.0.8"
+    "Fix Release Plugin",
+    "Make Rebars Faster In SketchUp"
   ]
 }
